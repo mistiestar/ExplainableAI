@@ -7,12 +7,11 @@ University of California, Irvine, Machine Learning Repository. (1994, November 1
 (German Credit Data). https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
 2. The package used to generate counterfactual SHAP (CF-SHAP) explanations can be found here:
-https://github.com/jpmorganchase/cf-shap/tree/main
-
-Authors:
 Albini, E., Long, J., Dervovic, D., & Magazzeni, D. (2022). Counterfactual Shapley Additive Explanations.
 Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT '22).
 https://doi.org/10.1145/3531146.3533168
+
+or for a more direct link: https://github.com/jpmorganchase/cf-shap
 
 Note, the package not been updated for 4 years, and therefore requires a much older version of python and its libraries. The work-around I found is to create a virtual anaconda environment that uses python v3.8 (the version used by the authors). To do so, see the code below:
 
