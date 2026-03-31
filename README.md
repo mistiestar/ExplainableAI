@@ -2,7 +2,7 @@
 
 SHAP_v_CFSHAP_example.ipynb is a jupyter notebook showing the use case and plots as described in the report.
 
-1. The data set used in this report can be found here:
+1. The data set used in the report can be found here:
 University of California, Irvine, Machine Learning Repository. (1994, November 16). Statlog
 (German Credit Data). https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
